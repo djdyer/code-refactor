@@ -4,8 +4,7 @@ The Horiseon marketing agency has requested a code refactor on their existing ho
 
 By following the Scouts Rule, I have reduced the CSS by 25% by consolidating the selectors and properties within the HTML, adding semantic + alt / title tags to improve accessibility / SEO where possible. 
 
-
-check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Both the HTML and CSS scripts are commented and formatted according to best practices.
 
 
 
