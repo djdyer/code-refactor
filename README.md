@@ -12,10 +12,7 @@ https://djdyer.github.io/code-refactor/
 
 Screenshot of homepage:
 
-<img width="800" alt="Screen Shot 2021-08-27 at 3 14 27 PM" src="https://user-images.githubusercontent.com/87234607/131220312-c3f92962-b966-4565-9b5f-6ab0c6182d3c.png">
-
-
-
+![screencapture-djdyer-github-io-code-refactor-2021-08-28-10_03_25](https://user-images.githubusercontent.com/87234607/131220487-abf55e06-fdc1-4fc3-ae6d-526554eaadb9.png)
 
 
 
